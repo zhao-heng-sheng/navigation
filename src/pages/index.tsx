@@ -13,12 +13,8 @@ export default function IndexPage() {
           <div>设置、其他功能项</div>
         </Header>
         <Content>
-          <div>
-            网站列表
-          </div>
-          <div>
-            右上测待办事项
-          </div>
+          <div>网站列表</div>
+          <div>右上测待办事项</div>
         </Content>
         <Footer>
           <div>备案号</div>
